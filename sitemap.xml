@@ -7,13 +7,31 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://aviro.ga/images/clipboard.png</loc>
+    <lastmod>2016-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://aviro.ga/images/agenda.png</loc>
+    <lastmod>2016-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://aviro.ga/images/multimedia.png</loc>
+    <lastmod>2016-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://aviro.ga/images/phone_icon.png</loc>
     <lastmod>2016-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://aviro.ga/images/10071503-300x161%201.jpg</loc>
+    <loc>http://aviro.ga/images/vk.png</loc>
     <lastmod>2016-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -25,7 +43,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://aviro.ga/images/od.png</loc>
+    <loc>http://aviro.ga/images/contract.png</loc>
+    <lastmod>2016-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://aviro.ga/images/up-arrow-2.png</loc>
+    <lastmod>2016-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://aviro.ga/images/1_primary_logo_on_transparent_197x75.png</loc>
     <lastmod>2016-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -37,7 +67,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://aviro.ga/images/vk.png</loc>
+    <loc>http://aviro.ga/images/od.png</loc>
+    <lastmod>2016-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://aviro.ga/images/chat.png</loc>
     <lastmod>2016-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

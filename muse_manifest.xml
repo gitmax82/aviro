@@ -1,39 +1,34 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aviro.ga" resolutions="1x" timestamp="1475788401056">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aviro.ga" resolutions="1x" timestamp="1475817509411">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_______-a.css" crc="3811516654" ref="index"/>
-    <file name="nomq_preview_master_______-a.css" crc="4163387034" ref="index"/>
-    <file name="index.css" crc="409214090" ref="index"/>
-    <file name="nomq_index.css" crc="494170266" ref="index"/>
-    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="master_______-a.css" crc="134749988" ref="index"/>
+    <file name="index.css" crc="4204906567" ref="index"/>
+    <file name="iefonts_index.css" crc="3980460690" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
     <file name="museutils.js" crc="3851988764" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="4242129463" ref="index"/>
+    <file name="pie.js" crc="3831537696" ref="index"/>
     <file name="jquery.watch.js" crc="3842844514" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="516761069" ref="index"/>
     <file name="require.js" crc="4108833657" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="шаблон-a-favicon.ico" crc="120437393" ref="index"/>
-    <file name="1_primary_logo_on_transparent_197x752 white .png" crc="4254749320" seo="true" ref="index"/>
-    <file name="phone_icon.png" crc="4211237113" seo="true" ref="index"/>
-    <file name="10071503-300x161 1.jpg" crc="318939743" seo="true" ref="index"/>
-    <file name="6868-1-642x336-u806.png" crc="207492237" ref="index"/>
-    <file name="vk.png" crc="3878789640" seo="true" ref="index"/>
-    <file name="od.png" crc="4219654224" seo="true" ref="index"/>
-    <file name="inst.png" crc="3810101846" seo="true" ref="index"/>
-    <file name="6868-1-642x336-u8062.png" crc="4284569169" ref="index"/>
-    <file name="vk-crop-u721.png" crc="4159992630" ref="index"/>
-    <file name="od-crop-u714.png" crc="4035345714" ref="index"/>
-    <file name="inst-crop-u706.png" crc="137890090" ref="index"/>
-    <file name="6868-1-642x336-u8063.png" crc="4266865042" ref="index"/>
-    <file name="vk-crop-u7212.png" crc="4224212488" ref="index"/>
-    <file name="od-crop-u7142.png" crc="64405018" ref="index"/>
-    <file name="inst-crop-u7062.png" crc="3784765573" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="шаблон-a-favicon.ico" crc="147284282" ref="index"/>
+    <file name="photo-1455390582262-044cdead277a-u114.png" crc="3814562850" ref="index"/>
+    <file name="1_primary_logo_on_transparent_197x752 white .png" crc="4174951468" seo="true" ref="index"/>
+    <file name="clipboard.png" crc="489349455" seo="true" ref="index"/>
+    <file name="agenda.png" crc="180312911" seo="true" ref="index"/>
+    <file name="multimedia.png" crc="3850579240" seo="true" ref="index"/>
+    <file name="phone_icon.png" crc="467574098" seo="true" ref="index"/>
+    <file name="vk.png" crc="307881030" seo="true" ref="index"/>
+    <file name="chat.png" crc="4267816440" seo="true" ref="index"/>
+    <file name="contract.png" crc="4212786529" seo="true" ref="index"/>
+    <file name="up-arrow-2.png" crc="4265328994" seo="true" ref="index"/>
+    <file name="1_primary_logo_on_transparent_197x75.png" crc="367119227" seo="true" ref="index"/>
+    <file name="inst.png" crc="196771572" seo="true" ref="index"/>
+    <file name="od.png" crc="157696689" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4074822509" seo="true" mt="1475788399196" redirect="true"/>
+  <file name="index.html" crc="3923419753" seo="true" mt="1475816725548" redirect="true"/>
 </manifest>
