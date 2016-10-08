@@ -37,19 +37,13 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://aviro.ga/images/contract.png</loc>
+    <lastmod>2016-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://aviro.ga/images/1_primary_logo_on_transparent_197x752%20white%20.png</loc>
-    <lastmod>2016-10-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://aviro.ga/images/up-arrow-2.png</loc>
-    <lastmod>2016-10-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://aviro.ga/images/1_primary_logo_on_transparent_197x75.png</loc>
     <lastmod>2016-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -73,7 +67,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://aviro.ga/images/contract.png</loc>
+    <loc>http://aviro.ga/images/photo-1455390582262-044cdead277a.jpg</loc>
+    <lastmod>2016-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://aviro.ga/images/up64.png</loc>
+    <lastmod>2016-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://aviro.ga/images/1_primary_logo_on_transparent_197x75.png</loc>
     <lastmod>2016-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
