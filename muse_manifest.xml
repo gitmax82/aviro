@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aviro.ga" resolutions="1x" timestamp="1475933432168">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aviro.ga" resolutions="1x" timestamp="1475951066085">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
     <file name="master_______-a.css" crc="4146217962" ref="index"/>
-    <file name="index.css" crc="518651626" ref="index"/>
+    <file name="index.css" crc="169278377" ref="index"/>
     <file name="iefonts_index.css" crc="38275639" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -30,5 +30,5 @@
     <file name="photo-1455390582262-044cdead277a.jpg" crc="3767924921" seo="true" ref="index"/>
     <file name="up64.png" crc="163854938" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3988135856" seo="true" mt="1475933325173" redirect="true"/>
+  <file name="index.html" crc="519498120" seo="true" mt="1475951043306" redirect="true"/>
 </manifest>
