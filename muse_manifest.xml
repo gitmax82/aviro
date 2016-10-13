@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aviro.ga" resolutions="1x" timestamp="1475951066085">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aviro.ga" resolutions="1x" timestamp="1476337528902">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_______-a.css" crc="4146217962" ref="index"/>
-    <file name="index.css" crc="169278377" ref="index"/>
-    <file name="iefonts_index.css" crc="38275639" ref="index"/>
+    <file name="master_______-a.css" crc="167797816" ref="index"/>
+    <file name="index.css" crc="3884854463" ref="index"/>
+    <file name="iefonts_index.css" crc="451211747" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -16,19 +16,19 @@
   </folder>
   <folder name="images">
     <file name="шаблон-a-favicon.ico" crc="147284282" ref="index"/>
-    <file name="1_primary_logo_on_transparent_197x752 white .png" crc="490912645" seo="true" ref="index"/>
     <file name="clipboard.png" crc="489349455" seo="true" ref="index"/>
     <file name="agenda.png" crc="4074097980" seo="true" ref="index"/>
     <file name="multimedia.png" crc="3761840575" seo="true" ref="index"/>
     <file name="phone_icon.png" crc="467574098" seo="true" ref="index"/>
     <file name="chat.png" crc="200329500" seo="true" ref="index"/>
     <file name="contract.png" crc="311485714" seo="true" ref="index"/>
-    <file name="1_primary_logo_on_transparent_197x75.png" crc="4292772262" seo="true" ref="index"/>
     <file name="vk.png" crc="307881030" seo="true" ref="index"/>
     <file name="inst.png" crc="4020179254" seo="true" ref="index"/>
     <file name="od.png" crc="157696689" seo="true" ref="index"/>
     <file name="photo-1455390582262-044cdead277a.jpg" crc="3767924921" seo="true" ref="index"/>
     <file name="up64.png" crc="163854938" seo="true" ref="index"/>
+    <file name="1_primary_logo_on_transparent_198x75.png" crc="4121311649" seo="true" ref="index"/>
+    <file name="1_primary_logo_on_transparent_198x752.png" crc="147615122" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="519498120" seo="true" mt="1475951043306" redirect="true"/>
+  <file name="index.html" crc="505924937" seo="true" mt="1476337477399" redirect="true"/>
 </manifest>
