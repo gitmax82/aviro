@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aviro.ga" resolutions="1x" timestamp="1484746183782">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aviro.ga" resolutions="1x" timestamp="1484753969197">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
     <file name="master_______-a.css" crc="4261859917" ref="index"/>
-    <file name="index.css" crc="3850035533" ref="index"/>
-    <file name="iefonts_index.css" crc="4115896448" ref="index"/>
+    <file name="index.css" crc="4017428348" ref="index"/>
+    <file name="iefonts_index.css" crc="3938506527" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -20,16 +20,24 @@
     <file name="fotolia_83559856_xs900.jpg" crc="4263494626" ref="index"/>
     <file name="otkritije-ili-sochraneniye-vlozheniy-v-programme-windows-mail.png" crc="172184117" seo="true" ref="index"/>
     <file name="phone_icon — копия.png" crc="3992569653" seo="true" ref="index"/>
+    <file name="user manual — копия.jpg" crc="4166101369" seo="true" ref="index"/>
+    <file name="business-man-1031755_640.jpg" crc="3889326963" seo="true" ref="index"/>
+    <file name="contract.jpg" crc="383129228" seo="true" ref="index"/>
+    <file name="book.jpg" crc="327245021" seo="true" ref="index"/>
+    <file name="52 — копия.jpg" crc="4072650799" seo="true" ref="index"/>
+    <file name="finance-planning.jpg" crc="202311754" seo="true" ref="index"/>
+    <file name="spravki1.jpg" crc="392980439" seo="true" ref="index"/>
+    <file name="oil-gas.jpg" crc="298442372" seo="true" ref="index"/>
+    <file name="zakupki_tender.jpg" crc="3945573784" seo="true" ref="index"/>
+    <file name="drug.jpg" crc="4248880034" seo="true" ref="index"/>
     <file name="up64.png" crc="163854938" seo="true" ref="index"/>
     <file name="clipboard.png" crc="489349455" seo="true" ref="index"/>
     <file name="chat.png" crc="125619930" seo="true" ref="index"/>
     <file name="contract.png" crc="501485721" seo="true" ref="index"/>
-    <file name="agenda.png" crc="4074097980" seo="true" ref="index"/>
-    <file name="multimedia.png" crc="3761840575" seo="true" ref="index"/>
     <file name="1_primary_logo_on_transparent_198x75.png" crc="147615122" seo="true" ref="index"/>
     <file name="vk.png" crc="307881030" seo="true" ref="index"/>
     <file name="inst.png" crc="4020179254" seo="true" ref="index"/>
     <file name="od.png" crc="157696689" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4134269023" seo="true" mt="1484746127852" redirect="true"/>
+  <file name="index.html" crc="3996402750" seo="true" mt="1484753920996" redirect="true"/>
 </manifest>
