@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aviro.ga" resolutions="1x" timestamp="1484753969197">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aviro.ga" resolutions="1x" timestamp="1484930176604">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_______-a.css" crc="4261859917" ref="index"/>
-    <file name="index.css" crc="4017428348" ref="index"/>
-    <file name="iefonts_index.css" crc="3938506527" ref="index"/>
+    <file name="master_______-a.css" crc="3771342243" ref="index"/>
+    <file name="index.css" crc="262110379" ref="index"/>
+    <file name="iefonts_index.css" crc="165365789" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -32,12 +32,12 @@
     <file name="drug.jpg" crc="4248880034" seo="true" ref="index"/>
     <file name="up64.png" crc="163854938" seo="true" ref="index"/>
     <file name="clipboard.png" crc="489349455" seo="true" ref="index"/>
-    <file name="chat.png" crc="125619930" seo="true" ref="index"/>
-    <file name="contract.png" crc="501485721" seo="true" ref="index"/>
+    <file name="chat.png" crc="3898552809" seo="true" ref="index"/>
+    <file name="contract.png" crc="168260202" seo="true" ref="index"/>
     <file name="1_primary_logo_on_transparent_198x75.png" crc="147615122" seo="true" ref="index"/>
     <file name="vk.png" crc="307881030" seo="true" ref="index"/>
     <file name="inst.png" crc="4020179254" seo="true" ref="index"/>
     <file name="od.png" crc="157696689" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3996402750" seo="true" mt="1484753920996" redirect="true"/>
+  <file name="index.html" crc="3979563148" seo="true" mt="1484930075874" redirect="true"/>
 </manifest>
