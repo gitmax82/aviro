@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aviro.ga" resolutions="1x" timestamp="1487827883485">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aviro.ga" resolutions="1x" timestamp="1487829355246">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
     <file name="master_______-a.css" crc="4230558399" ref="index"/>
-    <file name="index.css" crc="4008122826" ref="index"/>
-    <file name="iefonts_index.css" crc="40918485" ref="index"/>
+    <file name="index.css" crc="231235701" ref="index"/>
+    <file name="iefonts_index.css" crc="3828155946" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -42,5 +42,5 @@
     <file name="inst.png" crc="4020179254" seo="true" ref="index"/>
     <file name="od.png" crc="157696689" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4280979659" seo="true" mt="1487827739519" redirect="true"/>
+  <file name="index.html" crc="428884518" seo="true" mt="1487829320219" redirect="true"/>
 </manifest>
