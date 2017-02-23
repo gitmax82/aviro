@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aviro.ga" resolutions="1x" timestamp="1484930822021">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aviro.ga" resolutions="1x" timestamp="1487827883485">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_______-a.css" crc="3771342243" ref="index"/>
-    <file name="index.css" crc="439896381" ref="index"/>
-    <file name="iefonts_index.css" crc="165365789" ref="index"/>
+    <file name="master_______-a.css" crc="4230558399" ref="index"/>
+    <file name="index.css" crc="4008122826" ref="index"/>
+    <file name="iefonts_index.css" crc="40918485" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -20,6 +20,9 @@
     <file name="fotolia_83559856_xs900.jpg" crc="4263494626" ref="index"/>
     <file name="otkritije-ili-sochraneniye-vlozheniy-v-programme-windows-mail.png" crc="172184117" seo="true" ref="index"/>
     <file name="phone_icon — копия.png" crc="3992569653" seo="true" ref="index"/>
+    <file name="logokamaz.jpg" crc="334371318" seo="true" ref="index"/>
+    <file name="profair.jpg" crc="60251567" seo="true" ref="index"/>
+    <file name="elordazharnama.jpg" crc="4098608282" seo="true" ref="index"/>
     <file name="user manual — копия.jpg" crc="4166101369" seo="true" ref="index"/>
     <file name="business-man-1031755_640.jpg" crc="3889326963" seo="true" ref="index"/>
     <file name="contract.jpg" crc="383129228" seo="true" ref="index"/>
@@ -39,5 +42,5 @@
     <file name="inst.png" crc="4020179254" seo="true" ref="index"/>
     <file name="od.png" crc="157696689" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4116456755" seo="true" mt="1484930810329" redirect="true"/>
+  <file name="index.html" crc="4280979659" seo="true" mt="1487827739519" redirect="true"/>
 </manifest>
